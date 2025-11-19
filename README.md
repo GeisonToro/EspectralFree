@@ -14,6 +14,11 @@ Es una aplicación de escritorio en Python para visualizar, filtrar y analizar f
 |------------|--------|
 | **Windows** (ejecutable ≈ 75 MB) | [Descargar](https://www.mediafire.com/file/8oamkh1xj2h6pj1/Espectral+Free.rar/file) |
 
+## Videos de Presentación
+| Plataforma | Enlace |
+|------------|--------|
+| **YouTube** | [Link](https://youtu.be/LbEbgur8TKI) |
+
 > El antivirus o el navegador pueden mostrar una advertencia al descargar un `.exe`. Continúa si confías en la fuente.
 
 ### Instalación desde código fuente
